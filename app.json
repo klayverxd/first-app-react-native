@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "first-project",
-    "slug": "first-project",
+    "name": "Color XD",
+    "slug": "color-xd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,6 +10,10 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "platforms": [
+      "android",
+      "ios"
+    ],
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -23,7 +27,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.klayver.colorbg"
     },
     "web": {
       "favicon": "./assets/favicon.png"
