@@ -32,6 +32,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/Klayverx/first-app-react-native"
   }
 }
